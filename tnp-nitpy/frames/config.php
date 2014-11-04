@@ -1,2 +1,2 @@
-<?php define("ALLOWED_DOMAIN","http://localhost/tnp-nitpy/");
+<?php define("ALLOWED_DOMAIN","http://tnpnitpy-nahthing.rhcloud.com/tnp-nitpy/");
  ?>
