@@ -14,10 +14,10 @@
  * DB_PASS: the password of the above user
  */
 define("DOMAIN","http://tnpnitpy-nahthing.rhcloud.com/tnp-nitpy/");
-define("DB_HOST", "localhost");
+define("DB_HOST", "");
 define("DB_NAME", "tnp");
-define("DB_USER", "TNPAdmin");
-define("DB_PASS", "TNPadmin");
+define("DB_USER", "admin1uXpKRp");
+define("DB_PASS", "RxecuY-ax7Kt");
 
 /**
  * Configuration for: Cookies
